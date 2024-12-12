@@ -1,5 +1,6 @@
 ## Hi there 👋
-I am a student in Henan Polytechnic University. 😄😄😄😄😄😄😄😄
+My name is ZhaoTianyou, a senior majoring in computer science and technology, from Henan Polytechnic University.😄😄😄😄😄😄😄😄
+In the future academic research, I plan to go further into the fields related to computer vision. I believe that I have the ability to achieve excellent results in the future research. 🤠🤠🤠🤠🤠🤠🤠🤠🤠
 <!--
 **tianyouzhao789/tianyouzhao789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
