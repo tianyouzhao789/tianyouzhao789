@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is ZhaoTianyou, a senior majoring in computer science and technology, from Henan Polytechnic University.😄
+My name is ZhaoTianyou, a senior majoring in Control Science and Engineering, from Northeastern University.😄
 <!--
 **tianyouzhao789/tianyouzhao789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
